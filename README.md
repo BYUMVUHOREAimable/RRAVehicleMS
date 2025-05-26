@@ -57,8 +57,8 @@ A comprehensive vehicle management system for the Rwanda Revenue Authority (RRA)
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
-   cd ne-spring-template-2025
+   git clone https://github.com/BYUMVUHOREAimable/RRAVehicleMS.git
+   cd RRAVehicleMS
    ```
 
 2. **Configure PostgreSQL**
